@@ -1,4 +1,7 @@
-#1st question
+/*Starting with a dataset of  choice and performing EDA using libraries like pandas, numpy,
+and matplotlib or seaborn. Also exploring the data's characteristics, distributions, correlations,
+and outliers. Visualize your findings with histograms, scatter plots, and heatmaps to
+gain insights into the data.*/
 
 import pandas as pd
 import numpy as np
